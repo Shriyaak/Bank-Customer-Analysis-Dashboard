@@ -1,3 +1,4 @@
+## Dashboard: 
 ![dashboard](https://github.com/Shriyaak/Bank-Customer-Analysis-Dashboard/blob/main/Dashboard.jpg?raw=true)
 <br/>
 <br/>
