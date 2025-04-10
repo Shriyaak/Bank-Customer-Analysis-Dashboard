@@ -1,3 +1,4 @@
+![dashboardimg](https://github.com/Shriyaak/Bank-Customer-Analysis-Dashboard/blob/main/Dashboard.jpg?raw=true)
 Problem Statement
 The objective of this dashboard is to provide a comprehensive analysis of bank customer demographics, financial behavior, and segmentation to help the bank better understand its customer base, identify trends, and make informed decisions for targeted marketing, financial planning, and customer engagement strategies. By analyzing factors such as region, job classification, age, balance distribution, and customer growth, the dashboard enables the bank to tailor its products and services to different customer segments effectively.
 
