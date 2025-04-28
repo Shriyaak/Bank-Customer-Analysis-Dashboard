@@ -1,5 +1,5 @@
 ## Dashboard: 
-![dashboard](https://github.com/Shriyaak/Bank-Customer-Analysis-Dashboard/blob/main/Dashboard.jpg?raw=true)
+![dashboard](https://github.com/Shriyaak/Bank-Customer-Analysis-Dashboard/blob/d9ae6e20ad781c7ebf70764e19ecfeed64ceb1ab/bank.jpg)
 <br/>
 <br/>
 ## Problem Statement
